@@ -1,0 +1,5 @@
+[submodule "primitive_data"]
+	path = primitive_data
+	url = git@github.com:JPietrzykTUD/TVLPrimitiveData.git
+	branch = main
+	
